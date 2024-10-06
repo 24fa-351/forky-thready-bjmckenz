@@ -1,0 +1,6 @@
+Pattern 1:
+Hello, World! pattern: 1, processes: 14
+Pattern 2:
+Hello, World! pattern: 2, processes: 7
+Pattern 3:
+Hello, World! pattern: 3, processes: 8
